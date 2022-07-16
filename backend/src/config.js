@@ -38,7 +38,7 @@ const format = {
 };
 
 const extraMetadata = {
-  external_url: "https://helpful-pika-2f830c.netlify.app", // Replace with your website or remove this line if you do not have one.
+  external_url: "https://unique-cendol-dc7ad3.netlify.app", // Replace with your website or remove this line if you do not have one.
 };
 
 // NFTPort Info
