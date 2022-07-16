@@ -1,4 +1,4 @@
-const contractAddress = "0x1BCd2a1C02b5F40E7B517a787dB21D4486DCa533"; // Replace with your own contract address
+const contractAddress = "0x9F843c847fe75b7BA490091a21a002A54c22B1E5"; // Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby, polygon, or ethereum
 
 const welcome_h1 = "Welcome to the ChillFish NFT Project!!";
